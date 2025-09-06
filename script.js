@@ -1,4 +1,4 @@
-const message = `Iikann kinan hari ini ultahh, wkwkwkwk \n\nHAPPY LEVEL UP DAY \n\nReminder \nKerja tuh kadang kayak drama korea: banyak plot twist, ada yang ngeselin, ada yang bikin happy ending… bedanya, episode-nya nggak kelar-kelar. Tapi kau yang jadi pemeran utamanya! \n\nW Y A T B`;
+const message = `Iikann kinan hari ini ultahh, wkwkwkwk \n\nHAPPY LEVEL UP DAY \n\nReminder \nKerja tuh kadang kayak drama korea: banyak plot twist, ada yang ngeselin, ada yang bikin happy ending… bedanya, episode-nya nggak kelar-kelar. Tapi kau yang jadi pemeran utamanya! \nANJASSSS \n\nW Y A T B`;
 
 function showLetter() {
   document.getElementById("introText").style.opacity = 0;
@@ -27,3 +27,4 @@ function showLetter() {
     typeWriter();
   }, 600);
 }
+
