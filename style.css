@@ -46,14 +46,13 @@ body {
     #d2d2d2 28px
   );
   color: #333;
-  padding: 30px 30px 30px 70px;
   border-radius: 10px;
-  width: 80%;
+  padding: 50px;
   max-width: 500px;
   height: auto;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
-  font-size: 1.1rem;
-  line-height: 1.6;
+  font-size: 0.9 rem;
+  line-height: 2.2;
   text-align: left;
   position: relative;
   white-space: pre-wrap;
@@ -62,7 +61,7 @@ body {
   overflow: visible;
 }
 .letter p {
-  margin-top: -55px;
+  margin-top: -45px;
   overflow: hidden;
 }
 .letter::before {
@@ -101,10 +100,10 @@ body {
   }
 
   .letter {
-    width: 95%;
+    width: 80%;
     height: auto; /* tinggi menyesuaikan konten */
-    padding: 20px;
-    font-size: 0.85rem;
+    padding: 50px;
+    font-size: 0.8rem;
   }
 
   .signature {
